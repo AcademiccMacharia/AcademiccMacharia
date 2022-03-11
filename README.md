@@ -15,9 +15,9 @@
 
 PS: Motivation is really a good way to start your day basically. Those few words give you the right boost to become the BEST VERSION of yourself. Link to what I listen to 95% of the time when coding is below.
 
-[<img src="https://img.icons8.com/ios/50/000000/youtube-play--v2.png"/>](https://www.youtube.com/channel/UCM3WGXrQz5jPL_3bcho_t9Q-light-mode-only)
+[<img src="https://img.icons8.com/ios/50/000000/youtube-play--v2.png"/>](https://www.youtube.com/channel/UCM3WGXrQz5jPL_3bcho_t9Q)
 &nbsp;&nbsp;
-[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ben-macharia-b66898227/-dark-mode-only)
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ben-macharia-b66898227/)
 &nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
 
