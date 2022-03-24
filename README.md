@@ -1,4 +1,5 @@
-# Hi, I'm BEN ---- I go by M.O.T.I.V.A.T.I.O.N on YouTube 👋 
+# Hi, I'm BEN.
+  ## I go by M.O.T.I.V.A.T.I.O.N on YouTube 👋 
 
 ------------------------------------------------------------------------------------
 
