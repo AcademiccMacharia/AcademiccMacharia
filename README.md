@@ -3,7 +3,7 @@
 
 ------------------------------------------------------------------------------------
 
-## I'm a Full Stack Web Developer [FrontEnd Strong] and YouTube Creator!!
+## I'm a Full Stack Web Developer [FE Heavy] and YouTube Creator!!
 
 - 🔭 Check out my Youtube Channel: [M.O.T.I.V.A.T.I.O.N!](https://www.youtube.com/channel/UCM3WGXrQz5jPL_3bcho_t9Q)
 - 🌱 I’m currently learning everything in the Internet.🤣
