@@ -3,7 +3,7 @@
 
 ------------------------------------------------------------------------------------
 
-- 🔭 Check out my Youtube Channel: [M.O.T.I.V.A.T.I.O.N!](https://www.youtube.com/channel/UCM3WGXrQz5jPL_3bcho_t9Q)
+- 🔭 Check out my LinkedIn: [Click Here](https://www.linkedin.com/in/ben-macharia-b66898227/)
 - 🌱 I’m currently learning everything in the Internet.🤣
 - 👯 I’m looking to collaborate with other developers and creators.
 -  For anything contact me through my Email: wrkthedream@gmail.com
