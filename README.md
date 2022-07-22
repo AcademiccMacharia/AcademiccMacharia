@@ -35,6 +35,7 @@ PS: Motivation is really a good way to start your day basically. Those few words
 
 <br>
 <br />
+![Motivation](https://octodex.github.com/images/mona-the-rivetertocat.png)
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
