@@ -1,6 +1,6 @@
 # Hi, I'm BEN.
   ## Software Developer || Data Analyst👋 || DevOps || Cloud Enthusiast
-
+![developer image](https://imgs.search.brave.com/bR72NFpZy1YUWws-jGYKql074_hYdOH08LE2tQGFaZo/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5H/MEZFZzg2OHJTWURG/TUtTVzYxUmlRSGFG/aiZwaWQ9QXBp)
 ------------------------------------------------------------------------------------
 
 - 🔭 Check out my LinkedIn: [Click Here](https://www.linkedin.com/in/ben-macharia-b66898227/)
