@@ -1,13 +1,21 @@
-# Hi, I'm BEN.
-  ## Software Developer || Data Analyst👋 || DevOps || Cloud Enthusiast
-------------------------------------------------------------------------------------
+<img height="400" width="800" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" />
+
+## Hi, I'm BEN 👋
+
+#### Software Developer || UX/UI Designer || Data Analyst || DevOps Cloud Enthusiast
+
+-----------------------------------------------------------------------------------
+
+#### Who I'm I?
 
 - 🔭 Check out my LinkedIn: [Click Here](https://www.linkedin.com/in/ben-macharia-b66898227/)
-- 🌱 I’m currently learning everything in the Internet.🤣
+- 😍 I’m currently falling in love with the MERN stack.
 - 👯 I’m looking to collaborate with other developers and creators.
 -  For anything contact me through my Email: wrkthedream@gmail.com
 - 🥅 2022 Goals: Contibute more in open source projects and elevate my skills.
-- ⚡ Fun fact: Gaming is LIFE!!
+- ⚡ Random facts: Google images was literally created after Jennifer Lopez wore that infamous dress at the 2000 Grammys
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### Connect with me:
 
