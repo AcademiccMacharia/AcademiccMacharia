@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate with other developers and creators.
 -  For anything contact me through my Email: wrkthedream@gmail.com
 - 🥅 2022 Goals: Contibute more in open source projects and elevate my skills.
-- ⚡ Random facts: Google images was literally created after Jennifer Lopez wore that infamous dress at the 2000 Grammys
+- ⚡ Random points: Digital nomads life lover 😍
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
