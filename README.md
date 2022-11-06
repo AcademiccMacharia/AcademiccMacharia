@@ -1,5 +1,3 @@
-<img height="400" width="800" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" />
-
 ## Hi, I'm BEN 👋
 
 #### Software Developer || UX/UI Designer || Data Analyst || DevOps Cloud Enthusiast
@@ -15,11 +13,11 @@
 - 🥅 2022 Goals: Contibute more in open source projects and elevate my skills.
 - ⚡ Random points: Digital nomads life lover 😍
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### Currently Vibing To:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cmq88xqhzfl1p00zznzhm456d&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&bar_color=b7e901&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=cmq88xqhzfl1p00zznzhm456d&redirect=true)
 
 ### Connect with me:
-
-PS: Motivation is really a good way to start your day basically. Those few words give you the right boost to become the BEST VERSION of yourself. Link to what I listen to 95% of the time when coding is below.
 
 [<img src="https://img.icons8.com/ios/50/000000/youtube-play--v2.png"/>](https://www.youtube.com/channel/UCM3WGXrQz5jPL_3bcho_t9Q)
 &nbsp;&nbsp;
