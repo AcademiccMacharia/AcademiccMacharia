@@ -15,7 +15,7 @@
 
 ### Currently Vibing To:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cmq88xqhzfl1p00zznzhm456d&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&bar_color=b7e901&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=cmq88xqhzfl1p00zznzhm456d&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cmq88xqhzfl1p00zznzhm456d&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&bar_color=b7e901&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cmq88xqhzfl1p00zznzhm456d&redirect=true)
 
 ### Connect with me:
 
