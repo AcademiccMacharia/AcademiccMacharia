@@ -10,7 +10,7 @@
 - 😍 I’m currently falling in love with the MERN stack.
 - 👯 I’m looking to collaborate with other developers and creators.
 -  For anything contact me through my Email: wrkthedream@gmail.com
-- 🥅 2022 Goals: Contibute more in open source projects and elevate my skills.
+- 🥅 2023 Goals: Contibute more in open source projects and elevate my skills.
 - ⚡ Random points: Digital nomads life lover 😍
 
 ### Currently Vibing To:
