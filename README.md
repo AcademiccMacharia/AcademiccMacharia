@@ -8,7 +8,7 @@
 
 - 🔭 Check out my LinkedIn: [Click Here](https://www.linkedin.com/in/ben-macharia-b66898227/)
 - 😍 I’m currently falling in love with the MERN stack.
-- 👯 I’m looking to collaborate with other developers and creators.
+- 👯 I’m lookin to collaborate with other developers and creators.
 -  For anything contact me through my Email: wrkthedream@gmail.com
 - 🥅 2023 Goals: Contibute more in open source projects and elevate my skills.
 - ⚡ Random points: Digital nomads life lover 😍
