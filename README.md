@@ -53,5 +53,6 @@
 - [STOP THINKING SMALL - Best Motivational Speech 2022 Steve Harvey](https://www.youtube.com/watch?v=cW25GFJBOe8)
 - [STOP MAKING EXCUSES!!](https://www.youtube.com/watch?v=oDxhIjdHQKM&t)
 <!-- YOUTUBE:END -->
-<a href="https://icons8.com/icon/ISBCNY3NwyMM/youtube">YouTube icon by Icons8</a>
-<a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn icon by Icons8</a>
+
+
+
